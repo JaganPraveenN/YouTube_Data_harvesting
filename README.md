@@ -26,7 +26,7 @@ This project aims to develop a simple yet robust system for harvesting and wareh
 **Dependencies:**
 - YouTube API: Utilize the YouTube Data API for accessing YouTube content.
 - Database Connector: Choose an appropriate library or ORM for interacting with the selected database.
-- Web Framework (Optional): If implementing a web interface, use a framework like Flask or Django.
+- Web Framework (Optional): If implementing a web interface, use a framework like Flask or Streamlit.
 
 **Getting Started:**
 1. Acquire API Key: Obtain a YouTube API key to access the YouTube Data API.
